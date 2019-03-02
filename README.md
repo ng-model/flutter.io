@@ -3,9 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-
+<img src="https://raw.githubusercontent.com/ng-model/flutter.io/master/Screen%20Shot%202019-03-02%20at%203.37.02%20PM.png" alt="Fitness app design">
 This project is a starting point for a Flutter application.
-<img src="https://raw.githubusercontent.com/ng-model/flutter.io/master/Screen%20Shot%202019-03-02%20at%203.37.02%20PM.png" width="270" height="480" alt="Fitness app design">
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
